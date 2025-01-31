@@ -19,5 +19,7 @@
 4.dispositivos de entrada:cuando alguien es sordo y necesita un dispostivo para escuchar
 5.dispositivos de salida:cuando alguien es mudo y ocupa un modulador de voz para hablar '''
 
-#ejercicio 9: los errores de syntaxis se pueden conseguir al escribir mal un comando
+#ejercicio 9: los errores de syntaxis se pueden conseguir al escribir mal un comandoy
+
+
 
